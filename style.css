@@ -1,0 +1,12 @@
+.wrapper-slider {
+  margin-right: auto;
+  margin-left: auto;
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+img {
+  display: block;
+  height: 250px;
+}
