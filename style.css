@@ -10,3 +10,7 @@ img {
   display: block;
   height: 250px;
 }
+
+a:hover {
+  text-decoration: none;
+}
